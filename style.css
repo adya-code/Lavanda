@@ -1,0 +1,56 @@
+#body{
+    background:url("BG_LOGIN.jpg");
+    background-position :center;
+    background-size:inhzrit ;
+}
+#DIV1{
+    position: centre ;
+    background-color:white ;
+    height:300px;
+    width: 300px;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: cursive;
+}
+
+#btn_login{
+     
+    background: linear-gradient(to bottom, #ffefba, #ffffff);
+    height: 25px;
+    width: 100px;
+}
+#body1{
+
+    background:url("BG_main.jpg");
+    background-position :center;
+    background-size: cover ;
+}
+
+#img_nav{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: -15px;
+
+}
+
+#pasta{
+
+    height:6cm ;
+    width: 6cm;
+}
+
+#cheese_chilli{
+
+    height: 6cm ;
+    width: 6cm;
+}
+
+#paneer_tikka{
+
+    height: 6cm ;
+    width: 6cm;
+
+}
